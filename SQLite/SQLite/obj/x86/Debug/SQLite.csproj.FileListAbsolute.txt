@@ -1,0 +1,4 @@
+C:\POO\SQLite\SQLite\obj\x86\Debug\SQLite.csprojResolveAssemblyReference.cache
+C:\POO\SQLite\SQLite\obj\x86\Debug\SQLite.Form1.resources
+C:\POO\SQLite\SQLite\obj\x86\Debug\SQLite.Properties.Resources.resources
+C:\POO\SQLite\SQLite\obj\x86\Debug\SQLite.csproj.GenerateResource.Cache
