@@ -1,0 +1,8 @@
+c:\users\dario\documents\visual studio 2010\Projects\EjemploDiseño\EjemploDiseño\bin\Debug\EjemploDiseño.exe
+c:\users\dario\documents\visual studio 2010\Projects\EjemploDiseño\EjemploDiseño\bin\Debug\EjemploDiseño.pdb
+c:\users\dario\documents\visual studio 2010\Projects\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.Form1.resources
+c:\users\dario\documents\visual studio 2010\Projects\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.Properties.Resources.resources
+c:\users\dario\documents\visual studio 2010\Projects\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.csproj.GenerateResource.Cache
+c:\users\dario\documents\visual studio 2010\Projects\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.exe
+c:\users\dario\documents\visual studio 2010\Projects\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.pdb
+C:\Users\Dario\documents\visual studio 2010\Projects\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.csprojResolveAssemblyReference.cache

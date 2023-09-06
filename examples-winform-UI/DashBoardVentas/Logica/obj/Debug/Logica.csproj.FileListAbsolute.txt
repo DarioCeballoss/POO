@@ -1,0 +1,9 @@
+C:\examples-winform-UI\DashBoardVentas\Logica\bin\Debug\Logica.dll
+C:\examples-winform-UI\DashBoardVentas\Logica\bin\Debug\Logica.pdb
+C:\examples-winform-UI\DashBoardVentas\Logica\bin\Debug\Datos.dll
+C:\examples-winform-UI\DashBoardVentas\Logica\bin\Debug\Datos.pdb
+C:\examples-winform-UI\DashBoardVentas\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\examples-winform-UI\DashBoardVentas\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\examples-winform-UI\DashBoardVentas\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\examples-winform-UI\DashBoardVentas\Logica\obj\Debug\Logica.dll
+C:\examples-winform-UI\DashBoardVentas\Logica\obj\Debug\Logica.pdb
