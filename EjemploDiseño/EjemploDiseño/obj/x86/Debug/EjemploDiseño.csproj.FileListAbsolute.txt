@@ -6,3 +6,17 @@ c:\users\dario\documents\visual studio 2010\Projects\EjemploDiseño\EjemploDise�
 c:\users\dario\documents\visual studio 2010\Projects\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.exe
 c:\users\dario\documents\visual studio 2010\Projects\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.pdb
 C:\Users\Dario\documents\visual studio 2010\Projects\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.csprojResolveAssemblyReference.cache
+C:\POO\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.exe
+C:\POO\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.pdb
+C:\POO\EjemploDiseño\EjemploDiseño\bin\Debug\EjemploDiseño.exe
+C:\POO\EjemploDiseño\EjemploDiseño\bin\Debug\EjemploDiseño.pdb
+C:\POO\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.csprojResolveAssemblyReference.cache
+C:\POO\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.Form1.resources
+C:\POO\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.MenuLateral.resources
+C:\POO\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.Properties.Resources.resources
+C:\POO\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.PropiedadDock.resources
+C:\POO\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.csproj.GenerateResource.Cache
+C:\POO\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.FrmAgregar.resources
+C:\POO\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.FrmEditar.resources
+C:\POO\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.FrmEliminar.resources
+C:\POO\EjemploDiseño\EjemploDiseño\obj\x86\Debug\EjemploDiseño.FrmTodos.resources

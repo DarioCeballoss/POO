@@ -52,10 +52,61 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmAgregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAgregar.Designer.cs">
+      <DependentUpon>FrmAgregar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEditar.Designer.cs">
+      <DependentUpon>FrmEditar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEliminar.Designer.cs">
+      <DependentUpon>FrmEliminar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTodos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTodos.Designer.cs">
+      <DependentUpon>FrmTodos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuLateral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuLateral.Designer.cs">
+      <DependentUpon>MenuLateral.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PropiedadDock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PropiedadDock.Designer.cs">
+      <DependentUpon>PropiedadDock.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAgregar.resx">
+      <DependentUpon>FrmAgregar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEditar.resx">
+      <DependentUpon>FrmEditar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEliminar.resx">
+      <DependentUpon>FrmEliminar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTodos.resx">
+      <DependentUpon>FrmTodos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuLateral.resx">
+      <DependentUpon>MenuLateral.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -66,6 +117,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="PropiedadDock.resx">
+      <DependentUpon>PropiedadDock.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
