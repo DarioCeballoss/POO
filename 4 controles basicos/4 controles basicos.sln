@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 controles basicos", "4 controles basicos\4 controles basicos.csproj", "{09BF2B70-8657-4E6F-8680-2819F4B5E495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09BF2B70-8657-4E6F-8680-2819F4B5E495}.Debug|x86.ActiveCfg = Debug|x86
+		{09BF2B70-8657-4E6F-8680-2819F4B5E495}.Debug|x86.Build.0 = Debug|x86
+		{09BF2B70-8657-4E6F-8680-2819F4B5E495}.Release|x86.ActiveCfg = Release|x86
+		{09BF2B70-8657-4E6F-8680-2819F4B5E495}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

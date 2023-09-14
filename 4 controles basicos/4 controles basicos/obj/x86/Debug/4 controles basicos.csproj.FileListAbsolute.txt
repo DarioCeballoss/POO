@@ -1,0 +1,8 @@
+c:\POO\4 controles basicos\4 controles basicos\obj\x86\Debug\_4_controles_basicos.Form1.resources
+c:\POO\4 controles basicos\4 controles basicos\obj\x86\Debug\_4_controles_basicos.Properties.Resources.resources
+c:\POO\4 controles basicos\4 controles basicos\obj\x86\Debug\4 controles basicos.csproj.GenerateResource.Cache
+c:\POO\4 controles basicos\4 controles basicos\bin\Debug\4 controles basicos.exe
+c:\POO\4 controles basicos\4 controles basicos\bin\Debug\4 controles basicos.pdb
+c:\POO\4 controles basicos\4 controles basicos\obj\x86\Debug\4 controles basicos.exe
+c:\POO\4 controles basicos\4 controles basicos\obj\x86\Debug\4 controles basicos.pdb
+C:\POO\4 controles basicos\4 controles basicos\obj\x86\Debug\4 controles basicos.csprojResolveAssemblyReference.cache
